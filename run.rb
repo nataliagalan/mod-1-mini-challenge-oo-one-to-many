@@ -24,9 +24,7 @@ ramen = MenuItem.new(suzume_restaurant, 'Ramen', 12)
 # p veg_carbonara = testo_restaurant.add_menu_item('Vegetarian Carbonara', 11)
 # p vegan_carbonara = testo_restaurant.add_menu_item('Vegan Carbonara', 22)
 
-
 # p testo_restaurant.menu_items
-
 # p suzume_restaurant.menu_items
 # lasagna.dish_name
 # ramen.restaurant
@@ -39,4 +37,4 @@ ramen = MenuItem.new(suzume_restaurant, 'Ramen', 12)
 # Restaurant.biggest_menu
 
   # binding.pry
-"pls"
+#"pls"
